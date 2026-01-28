@@ -42,7 +42,15 @@ Based in Berlin. AWS Certified Cloud Solutions Architect. Building at the inters
 
 ### Tech I Reach For
 
-`Python` `Rust` `TypeScript` `AWS` `FastAPI` `Next.js` `React` `LangGraph` `LangChain` `Qdrant` `PostgreSQL` `Redis` `Airflow` `Celery` `Docker` `Fly.io`
+**Languages** `Python` `Rust` `TypeScript` `Golang` `Mojo`
+
+**Agent Frameworks** `LangGraph` `LangChain` `CrewAI` `Model Context Protocol (MCP)` `OpenAI` `Hugging Face` `PyTorch`
+
+**AWS** `S3` `EC2` `RDS` `SageMaker` `Lambda` `CloudWatch`
+
+**Databases** `PostgreSQL` `Qdrant` `Pinecone` `ChromaDB` `Milvus` `Redis` `Neo4j` `Supabase`
+
+**Infrastructure** `FastAPI` `Next.js` `React` `Airflow` `Celery` `Docker` `Fly.io`
 
 ### Get in Touch
 
